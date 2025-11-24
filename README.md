@@ -7,4 +7,3 @@ AstrBot 插件
 # 支持
 
 [帮助文档](https://astrbot.app)
-
