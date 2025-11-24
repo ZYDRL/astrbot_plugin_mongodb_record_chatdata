@@ -1,9 +1,10 @@
-# helloworld
+# astrbot_plugin_mongodb_record_chatdata
 
-AstrBot 插件模板
+AstrBot 插件
 
-A template plugin for AstrBot plugin feature
+这是一个连接到mongodb数据库，记录聊天内容的插件
 
 # 支持
 
 [帮助文档](https://astrbot.app)
+
