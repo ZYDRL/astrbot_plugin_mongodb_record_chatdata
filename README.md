@@ -1,8 +1,8 @@
-# get_record_event_message
+# helloworld
 
-AstrBot 插件
+AstrBot 插件模板
 
-这是一个连接到mongodb数据库，记录聊天内容的插件
+A template plugin for AstrBot plugin feature
 
 # 支持
 
